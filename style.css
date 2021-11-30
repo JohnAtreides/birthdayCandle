@@ -1,9 +1,16 @@
 .box {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	max-width: 100%;
-	min-width: 300px;
-	height: auto;
-	margin: 400px  auto 100px;
+  display: flex;
+  align-items: center;
+}
+
+.item {
+}
+
+.pti {
+	box-sizing: border-box;
+	object-fit: fill;
+}
+
+table.d {
+	text-align: center;
 }
